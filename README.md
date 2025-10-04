@@ -11,6 +11,7 @@ The vibrations of a stretched string generate a sinusoid describing the movement
 [Simple_phenomenon](https://moodle.luniversitenumerique.fr/course/view.php?id=171)
 
 ## 3. Draw a diagram of a sine curve as a function of time (do it by hand before scouting for images?)
-![Sinusoidal_wave](/Users/chloe/Master-projects/MAM2ADMM/Preseries02_Python/Preseries02_python_sinusoidal_signals)
+![Sinusoidal_wave](image/Sinusoidal_wave.jpeg)
+
 
 
