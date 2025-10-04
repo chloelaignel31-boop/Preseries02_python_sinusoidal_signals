@@ -77,7 +77,7 @@ y(t) =Acos(ωt+ϕ)=Asin(ωt+ϕ+π/2)
 
 ## 3. Diagram (ASCII) Comparing Sine and Cosine
 ![Sine_VS_Cosine](image/Sine_Cosine.jpeg)
-![Sine_VS_Cosine_python](image/sine_vs_cosine.png)
+![Sine_VS_Cosine_python](image/Sine_Cosine_python.png)
 
 ### Explanation
 - **Cosine** starts at **maximum amplitude (+A)** at t = 0.  
