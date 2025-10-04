@@ -2,7 +2,8 @@
  Create a notebook to plot sinusoidal signals
 
 ## 1. What is a sinusoid ?
- Periodic wavy curve representing the trigonometric function called sine, used in physics in particular to represent vibratory phenomena.[Sinusoid](https://www.cnrtl.fr/lexicographie/sinuso%C3%AFde)
+ Periodic wavy curve representing the trigonometric function called sine, used in physics in particular to represent vibratory phenomena.
+ [Sinusoid](https://www.cnrtl.fr/lexicographie/sinuso%C3%AFde)
 
 
  ## 2. What (simple) physical phenomenon produces a sinusoid?
@@ -70,7 +71,7 @@ Then the corresponding cosine is:
 y(t) =Acos(ωt+ϕ)=Asin(ωt+ϕ+π/2)
 \]
 
-- **A** : amplitude  
+- **A** : amplitude 
 - **ω** : angular frequency  
 - **φ** : initial phase  
 - **t** : time  
@@ -86,10 +87,12 @@ y(t) =Acos(ωt+ϕ)=Asin(ωt+ϕ+π/2)
 - The difference is a **horizontal shift of π/2 radians**.
 
 ## 7. Explain why a sinusoid is a periodic signal
-A sinusoid is a periodic signal because its shape repeats identically at regular intervals, with a constant period.[Laurent Oudre, TNS2, 2017-2018](https://www.laurentoudre.fr/tns/TNS2_hand.pdf)
+A sinusoid is a periodic signal because its shape repeats identically at regular intervals, with a constant period.
+[Laurent Oudre, TNS2, 2017-2018](https://www.laurentoudre.fr/tns/TNS2_hand.pdf)
 
 ## 8.Explain why a sinusoid is a continuous signal
-A sinusoid x(t)=Asin(ωt+ϕ) is a continuous signal because it is defined at every instant t, taking values for all real time points.[Laurent Oudre, TNS2, 2017-2018](https://www.laurentoudre.fr/tns/TNS2_hand.pdf)
+A sinusoid x(t)=Asin(ωt+ϕ) is a continuous signal because it is defined at every instant t, taking values for all real time points.
+[Laurent Oudre, TNS2, 2017-2018](https://www.laurentoudre.fr/tns/TNS2_hand.pdf)
 
 ## 9. Explain why a sinusoid is a parametric signal, and with which parameters
 A sinusoid is a parametric signal because it depends on the parameters amplitude, frequency, phase and time.
@@ -102,7 +105,11 @@ A sinusoid is a parametric signal because it depends on the parameters amplitude
 
 [Somme_siganux_sinusoïdaux_Chareyron](https://culturesciencesphysique.ens-lyon.fr/pdf/somme-sinus-python.pdf)
 
+[Simple_phenomenon](https://moodle.luniversitenumerique.fr/course/view.php?id=171)
 
+[Sinusoid](https://www.cnrtl.fr/lexicographie/sinuso%C3%AFde)
+
+[Signaux_sinusoïdaux_Aabu](https://zestedesavoir.com/tutoriels/2451/les-signaux-sinusoidaux-en-physique/les-signaux-sinusoidaux/)
 
 ## 11. Provide the time you spent on this assignment
 It took me two and a half hours to complete this assignment
