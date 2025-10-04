@@ -47,6 +47,43 @@ Equation: y(t)=Asin(ωt+ϕ)
 - **Frequency (f):** number of cycles per second  
 - **Angular frequency (ω):** one full wave represents 2π radians
 
+## 6. What is the difference between a sine and a cosine?
+# Difference Between Sine and Cosine
 
+## 1. Main Difference
+The main difference is a **phase shift**:
+- Cosine is equivalent to a sine shifted **π/2 radians to the left**:
+  \[
+  \cos(x) = \sin\left(x + \frac{\pi}{2}\right)
+  \]
+- Shape difference:
+  - Sine starts at **0** at t = 0 (if no phase shift).
+  - Cosine starts at **+A** (maximum amplitude) at t = 0.
+
+## 2. Cosine Equation in Terms of Sine
+If sine is:
+\[
+y(t) = A \sin(\omega t + \phi)
+\]
+
+Then the corresponding cosine is:
+\[
+y(t) = A \cos(\omega t + \phi) = A \sin\left(\omega t + \phi + \frac{\pi}{2}\right)
+\]
+
+- **A** : amplitude  
+- **ω** : angular frequency  
+- **φ** : initial phase  
+- **t** : time  
+
+## 3. Diagram (ASCII) Comparing Sine and Cosine
+![Sine_VS_Cosine](image/Sine_Cosine.jpeg)
+![Sine_VS_Cosine_python](image/sine_vs_cosine.png)
+
+### Explanation
+- **Cosine** starts at **maximum amplitude (+A)** at t = 0.  
+- **Sine** starts at **0** at t = 0.  
+- Both have the **same amplitude, period, frequency, and angular frequency**.  
+- The difference is a **horizontal shift of π/2 radians**.
 
 
