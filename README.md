@@ -12,6 +12,9 @@ The vibrations of a stretched string generate a sinusoid describing the movement
 
 ## 3. Draw a diagram of a sine curve as a function of time (do it by hand before scouting for images?)
 ![Sinusoidal_wave](image/Sinusoidal_wave.jpeg)
+![Sinusoidal_wave_web](image/sinusoidal_wave_web.jpg)
+
+## 4. What is the equation of a sinusoid?
 
 
 
