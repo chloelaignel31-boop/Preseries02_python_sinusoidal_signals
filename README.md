@@ -26,6 +26,26 @@ Equation: y(t)=Asin(ωt+ϕ)
 
 **Unit of the full equation:** y(t) has the same unit as the amplitude A, since sin() is dimensionless.
 
+## 5. Define (in plain English + give unit) and illustrate (on a diagram that you manually drew)
+
+### Key Terms
+
+| Term        | Definition                                                       | Unit                         |
+|------------|------------------------------------------------------------------|-------------------------------|
+| Amplitude (A) | Maximum value of the wave from the equilibrium position        | meters (m) or signal units   |
+| Period (T)    | Time needed for one complete wave cycle                         | seconds (s)                  |
+| Frequency (f) | Number of complete cycles per second, f = 1/ T                           | Hertz (Hz) = 1/s           |
+| Angular frequency / Pulsation (ω) | Oscillation speed in radians per second; ω = 2πf = 2π/T | radians per second (rad/s) |
+
+### Sinusoidal wave as a function of time
+![Sinusoidal_wave_with_annotations](image/Sinusoidal_wave_Q4.jpeg)
+
+
+### Diagram Annotations
+- **Amplitude (A):** +A (crest), -A (trough)  
+- **Period (T):** horizontal distance between two consecutive crests  
+- **Frequency (f):** number of cycles per second  
+- **Angular frequency (ω):** one full wave represents 2π radians
 
 
 
