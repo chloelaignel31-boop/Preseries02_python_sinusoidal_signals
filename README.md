@@ -97,8 +97,11 @@ A sinusoid is a parametric signal because it depends on the parameters amplitude
 
 ## 10. References
 [Analyse_fréquentielle_du_signal_Bahouri_Vigneron](https://hal.science/hal-02350738/file/AFS.pdf)
+
 [Laurent Oudre, TNS2, 2017-2018](https://www.laurentoudre.fr/tns/TNS2_hand.pdf)
+
 [Somme_siganux_sinusoïdaux_Chareyron](https://culturesciencesphysique.ens-lyon.fr/pdf/somme-sinus-python.pdf)
+
 
 
 ## 11. Provide the time you spent on this assignment
