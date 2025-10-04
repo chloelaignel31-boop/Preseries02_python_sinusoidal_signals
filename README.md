@@ -38,7 +38,7 @@ Equation: y(t)=Asin(ωt+ϕ)
 | Angular frequency / Pulsation (ω) | Oscillation speed in radians per second; ω = 2πf = 2π/T | radians per second (rad/s) |
 
 ### Sinusoidal wave as a function of time
-![Sinusoidal_wave_with_annotations](image/Sinusoidal_wave_Q5.jpeg)
+![Sinusoidal_wave_with_annotations](image/si
 
 
 ### Diagram Annotations
