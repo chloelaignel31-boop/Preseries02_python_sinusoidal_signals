@@ -53,7 +53,7 @@ Equation: y(t)=Asin(ωt+ϕ)
 The main difference is a **phase shift**:
 - Cosine is equivalent to a sine shifted **π/2 radians to the left**:
   \[
-  \cos(x) = cos(x)=sin(x+π/2)
+  \cos(x) =sin(x+π/2)
   \]
 - Shape difference:
   - Sine starts at **0** at t = 0 (if no phase shift).
@@ -62,7 +62,7 @@ The main difference is a **phase shift**:
 ## 2. Cosine Equation in Terms of Sine
 If sine is:
 \[
-y(t) = Ay(t)=Asin(ωt+ϕ)
+y(t) =Asin(ωt+ϕ)
 \]
 
 Then the corresponding cosine is:
