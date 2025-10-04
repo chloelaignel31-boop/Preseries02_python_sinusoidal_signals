@@ -48,13 +48,12 @@ Equation: y(t)=Asin(ωt+ϕ)
 - **Angular frequency (ω):** one full wave represents 2π radians
 
 ## 6. What is the difference between a sine and a cosine?
-# Difference Between Sine and Cosine
 
 ## 1. Main Difference
 The main difference is a **phase shift**:
 - Cosine is equivalent to a sine shifted **π/2 radians to the left**:
   \[
-  \cos(x) = \sin\left(x + \frac{\pi}{2}\right)
+  \cos(x) = cos(x)=sin(x+π/2)
   \]
 - Shape difference:
   - Sine starts at **0** at t = 0 (if no phase shift).
@@ -63,12 +62,12 @@ The main difference is a **phase shift**:
 ## 2. Cosine Equation in Terms of Sine
 If sine is:
 \[
-y(t) = A \sin(\omega t + \phi)
+y(t) = Ay(t)=Asin(ωt+ϕ)
 \]
 
 Then the corresponding cosine is:
 \[
-y(t) = A \cos(\omega t + \phi) = A \sin\left(\omega t + \phi + \frac{\pi}{2}\right)
+y(t) =Acos(ωt+ϕ)=Asin(ωt+ϕ+π/2)
 \]
 
 - **A** : amplitude  
