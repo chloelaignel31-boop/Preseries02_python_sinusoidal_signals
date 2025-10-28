@@ -1,5 +1,5 @@
 # Preseries02_python_sinusoidal_signals
- Create a notebook to plot sinusoidal signals
+ Create a notebook to plot sinusoidal_signals
 
 ## 1. What is a sinusoid ?
  Periodic wavy curve representing the trigonometric function called sine, used in physics in particular to represent vibratory phenomena.
